@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Rezahans
 - 📫 How to contact me :
-                         Instagram  : @rezahansl 
+
+       Instagram  : @rezahansl 
                          
-                         Twitter    : @Rezahansl
+       Twitter    : @Rezahansl
                          
-                         Facebook   : @Reza Hans
+       Facebook   : @Reza Hans
 
 
 <!---
