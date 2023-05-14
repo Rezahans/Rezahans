@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am Information Technology Student At Politeknik Negeri Jakarta (PNJ) And Software Engineering At CCIT FTUI
+I'am Information Technology Student At Politeknik Negeri Jakarta (PNJ) And Student Software Engineering At CCIT FTUI
 
 
 ## 🌐 Socials:
