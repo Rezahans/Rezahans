@@ -15,7 +15,7 @@
 
 ## 👋 Tentang Saya
 
-Lulusan **D4 Teknik Informatika, Politeknik Negeri Jakarta (2025)** dengan fokus sebagai **Fullstack Developer**. Berpengalaman membangun aplikasi web & mobile dari nol — mulai dari rancangan database, REST API, hingga deployment ke VPS/cloud. Terbiasa bekerja lintas tim (developer, client, stakeholder) dan menyusun dokumentasi teknis proyek.
+Lulusan **D4 Teknik Informatika, Politeknik Negeri Jakarta (2025)** dengan fokus sebagai **Fullstack Developer**. Berpengalaman membangun aplikasi web & mobile mulai dari rancangan database, REST API, hingga deployment ke VPS/cloud. Terbiasa bekerja lintas tim (developer, client, stakeholder) dan menyusun dokumentasi teknis proyek.
 
 - 🔭 Saat ini mengerjakan proyek **freelance fullstack & academic/technical services**
 - 🌱 Terus memperdalam **microservices**, **cloud deployment**, dan **ERP (Odoo)**
