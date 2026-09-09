@@ -5,9 +5,9 @@
 <br/>
 
 <a href="https://hanhansdev.xyz"><img src="https://img.shields.io/badge/Website-hanhansdev.xyz-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:email_kamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/62xxxxxxxxxx"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://linkedin.com/in/reza-hans-latif"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rezahans05@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/6288976985525"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </div>
 
