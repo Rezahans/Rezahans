@@ -17,11 +17,6 @@
 
 Lulusan **D4 Teknik Informatika, Politeknik Negeri Jakarta (2025)** dengan fokus sebagai **Fullstack Developer**. Berpengalaman membangun aplikasi web & mobile mulai dari rancangan database, REST API, hingga deployment ke VPS/cloud. Terbiasa bekerja lintas tim (developer, client, stakeholder) dan menyusun dokumentasi teknis proyek.
 
-- 🔭 Saat ini mengerjakan proyek **freelance fullstack & academic/technical services**
-- 🌱 Terus memperdalam **microservices**, **cloud deployment**, dan **ERP (Odoo)**
-- 💬 Bisa diajak diskusi soal: Laravel, .NET, React/Next.js, Flutter, dan data/reporting
-- 🌏 Bahasa: Indonesia (Aktif) • Inggris (Menengah)
-
 <br/>
 
 ## 🛠️ Tech Stack
@@ -81,16 +76,6 @@ Lulusan **D4 Teknik Informatika, Politeknik Negeri Jakarta (2025)** dengan fokus
 
 <br/>
 
-## 💼 Sorotan Pengalaman
-
-| Peran | Perusahaan | Periode | Highlight |
-|---|---|---|---|
-| Web Developer | PT. Caprof Media Negeri | Okt 2025 – Apr 2026 | Company profile end-to-end + modul HRIS absensi |
-| Fullstack Web Developer | PT. Surya Mandiri Teknologi | Agt 2024 – Jan 2025 | Sistem pelaporan Whistleblowing/COI (Laravel + Livewire) |
-| Fullstack Developer & IT Support | JNT Pondok Betung | Agu 2022 – Agu 2023 | Sistem internal inventaris + dukungan infrastruktur jaringan |
-| Fullstack Developer (proyek berkala) | PT. Rapi Bangun Prima | 2022 – 2026 | SPK penilaian vendor, sistem absensi, WordPress |
-
-<br/>
 
 ## 📊 GitHub Stats
 
